@@ -1,0 +1,13 @@
+# wbtourism
+
+Live Preview: <https://wbtourism.asimbera.tech>
+
+## Building
+
+- Prerequiste: Node 14.17.3 or later, Yarn package manager
+- Run `yarn` to install required dependencies.
+- Run `yarn start` or `yarn build` to run or build.
+
+## Credits
+
+- [@sumuhere](https://github.com/sumuhere) - for content
