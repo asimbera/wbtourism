@@ -10,4 +10,4 @@ Live Preview: <https://wbtourism.asimbera.tech>
 
 ## Credits
 
-- [@sumuhere](https://github.com/sumuhere) - for content
+- [@thatsuman](https://github.com/thatsuman) - for content
