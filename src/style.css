@@ -9,13 +9,12 @@
 @tailwind utilities;
 
 .hero {
-  background-image: url(assets/images/hero.jpg);
+  background-image: url(assets/images/hero.jpg?as=webp);
   min-height: 640px;
 }
 
 .ad {
-  background-image: url(assets/images/Howrah-Bridge.jpg
-  );
+  background-image: url(assets/images/Howrah-Bridge.jpg?as=webp);
 }
 
 .nature {
@@ -24,7 +23,7 @@
       hsla(0, 0%, 0%, 0),
       hsla(0, 0%, 0%, 0.7)
     ),
-    url(assets/images/nature.jpg);
+    url(assets/images/nature.jpg?as=webp);
 }
 
 .heritages {
@@ -33,7 +32,7 @@
       hsla(0, 0%, 0%, 0),
       hsla(0, 0%, 0%, 0.7)
     ),
-    url(assets/images/iskcon.jpg);
+    url(assets/images/iskcon.jpg?as=webp);
 }
 
 .foods {
@@ -42,5 +41,5 @@
       hsla(0, 0%, 0%, 0),
       hsla(0, 0%, 0%, 0.7)
     ),
-    url(assets/images/food.jpg);
+    url(assets/images/food.jpg?as=webp);
 }
