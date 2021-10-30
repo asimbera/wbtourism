@@ -1,6 +1,6 @@
 # wbtourism
 
-Live Preview: <https://wbtourism.asimbera.tech>
+Live Preview: <https://asimbera.github.io/wbtourism/>
 
 ## Building
 
