@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A template for static site using Tailwind.css and Parcel bundler.",
   "source": "./src/index.pug",
-  "publicUrl": "/wbtourism",
   "repository": "https://github.com/asimbera/parcel-tailwind-starter.git",
   "author": "Asim Bera <asimbera@outlook.in> (https://asimbera.pages.dev/)",
   "license": "MIT",
@@ -11,6 +10,11 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
+  },
+  "targets": {
+    "default": {
+      "publicUrl": "/wbtourism"
+    }
   },
   "devDependencies": {
     "@parcel/transformer-pug": "^2.0.0",
